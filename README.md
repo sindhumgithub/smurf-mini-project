@@ -14,7 +14,6 @@ It showcases how different DevOps tools integrate seamlessly to enable continuou
 - Git & GitHub
 - Docker
 - Jenkins
-- Kubernetes
 - App Code
 
 ---
@@ -23,7 +22,7 @@ It showcases how different DevOps tools integrate seamlessly to enable continuou
 ```
 Terraform/
 │
-├── eks.tf          # To create EKS cluster
+├── main.tf          # To create EKS cluster
 ├── provider.tf     # Provider configuration
 ├── variables.tf    # Input variables
 ├── outputs.tf      # Output values
