@@ -26,7 +26,6 @@ Terraform/
 ├── provider.tf     # Provider configuration
 ├── variables.tf    # Input variables
 ├── outputs.tf      # Output values
-├── vpc.tf          # VPC Resource creation
 └── README.md       # Project documentation
 ```
 
